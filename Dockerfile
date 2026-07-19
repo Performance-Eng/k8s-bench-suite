@@ -1,4 +1,4 @@
-FROM bitnami/kubectl:1.19
+FROM bitnamilegacy/kubectl:1.19
 LABEL mantainer "Oleg Basov <olegeech@sytkovo.su>"
 USER 0
 
